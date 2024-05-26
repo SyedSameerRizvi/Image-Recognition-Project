@@ -15,7 +15,5 @@ They prevent conflicts between the libraries you use for this project and those 
 # Installing the Tools:
   Once your venv is ready, it's time to stock it up with the tools (libraries) from your shopping list ("requirements.txt"). You'll use a command called pip to do this. Again, this file tells the program exactly what it needs to get the job done.
 You can install the file requirements.txt and then use the command pip install -r requirements.txt. Make sure the requirements file is in the same directory where your project or script will be.
-for more installations follow these steps: https://github.com/OlafenwaMoses/ImageAI/tree/master
+For more installations follow these steps: https://github.com/OlafenwaMoses/ImageAI/tree/master
 
-# Wrapping Up:
-  When you're finished working on your project, remember to close your venv toolbox. This keeps everything organized and avoids any accidental tinkering with other projects on your computer.
